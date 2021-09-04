@@ -15,3 +15,4 @@
 - [rare.json](./rare.json) contains a mapping of `lootId` to `score` (which is the sum of number of occcrences of each child attribute for a `lootId`), sorted ascending by `score`. It also includes `rarest` which is how rare the loot bags attributes are (`1` == `rarest`, `8000` == `least rare`), based on this specific ranking mechanism.
 - [probability.json](./probability.json) contains a mapping of `lootId` to `rank` by probabilistic occurence rather than rank (`P(A in bag at slot 1)` and `P(B in bag at slot 2)`, then `P(A in slot 1 and B in slot 2)` is the product of the 2 probabilities).
 - [images.json](./images.json) contains the base64 encoded SVG of each tokenId
+- [datas.csv](./datas.csv) all datas
