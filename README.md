@@ -4,7 +4,7 @@
 
 ## Distribution
 
-- tokenIds `1` to `7778` claimable by user.
+- tokenIds `1` to `7777` claimable by user.
 - tokenIds `7778` to `7999` claimable by contract owner.
 - Each token has attributes: `weapons`, `faces`, `body`, `location`, `sport`, `pets`, `flowers`, `traffic`.
 
