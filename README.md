@@ -2,8 +2,6 @@
   <h1 align="center">Emoji-Loot</h1>
 </p>
 
-# Emoji Loot
-
 ## Distribution
 
 - tokenIds `1` to `7778` claimable by user.
